@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NoteDatabase</string>
+    <string name="title">Заголовок заметки</string>
+    <string name="description">Главный герой — 27-летний Илья Горюнов, семь лет отсидевший в тюрьме по ложному обвинению в распространении наркотиков.</string>
+    <string name="date">30 марта 2020</string>
+    <string name="ешьу">18:05</string>
+    <string name="add">заметка</string>
+    <string name="addNote">Добавить запись</string>
+    <string name="get_description">Введите описание</string>
+    <string name="get_title">Введите заголовок</string>
+    <string-array name="date_picker_title">Выберите дату</string-array>
+    <string-array name="MONTHS_ARRAY">
+        <item>янв</item>
+        <item>фев</item>
+        <item>мар</item>
+        <item>апр</item>
+        <item>май</item>
+        <item>июн</item>
+        <item>июл</item>
+        <item>авг</item>
+        <item>сен</item>
+        <item>окт</item>
+        <item>нояб</item>
+    </string-array>
+</resources>
